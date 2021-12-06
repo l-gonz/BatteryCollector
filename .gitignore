@@ -2,8 +2,11 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+
 # .vscode
 **/.vscode/compileCommands**
+!**/.vscode/compileCommands*.json
+
 .vs
 *.VC.db
 *.opensdf
